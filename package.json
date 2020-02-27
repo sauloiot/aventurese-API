@@ -1,0 +1,21 @@
+{
+  "name": "aventurese-api",
+  "version": "1.0.0",
+  "description": "Api simples de pontos turisticos em maceió",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@google/maps": "^1.0.1",
+    "body-parser": "^1.14.2",
+    "cors": "^2.8.5",
+    "dotenv": "^8.1.0",
+    "express": "^4.13.1",
+    "joi": "^14.3.1",
+    "mongoose": "^5.6.0",
+    "path": "0.12.7",
+    "validator": "^11.1.0"
+  },
+  "author": "Equipe Ghost",
+  "license": "MIT"
+}
